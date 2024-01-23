@@ -624,7 +624,7 @@ def passwrd():
                 if len(frs)<3:
                     pass
                 else:
-                    pwv.append(tamang'12345')
+                    pwv.append(firs+'12345')
                     pwv.append(firs+'las+')
                     pwv.append(firs+' las+')
                     pwv.append(firs+'123')
@@ -648,7 +648,7 @@ def passwrd():
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                    pwv.append(tamang'12345')
+                    pwv.append(firs+'12345')
                     pwv.append(firs+'las+')
                     pwv.append(firs+' las+')
                     pwv.append(firs+'123')
