@@ -233,7 +233,7 @@ logo ="""
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[1;36m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗ 
 ║ [●]  ᴀᴜᴛʜᴏʀ        :          PRINCE     ║ 
-║ [●]  Ғαcɛвσσκ      :          Brand   ║    
+║ [●]  Ғαcɛвσσκ      :          Brand KRISH ║    
 ║ [●]  ǤιτΗυβ        :          Shree Krish ║   
 ║ [●]  ƬѲѲ˩Ƨ         :          ＰＡＩＤ      ║   
 ║ [●]  V̸E̸R̸S̸I̸O̸N̸       :           2.7         ║ 
@@ -340,9 +340,10 @@ def menu():
     print(f"\033[97;1m[\033[92;1m+\033[97;1m] \033[1;92mUSER NAME\033[1;91m :\033[1;96m "+uname)
     print("\033[97;1m[\033[92;1m•\033[97;1m] \033[0;93mTODAY'S DATE : \033[1;91m\033[1;47m"+date)
     print('\033[0;97m===============================================')
-    print(f"""\033[97;1m[\033[92;1m1\033[97;1m] \033[0;96mFILE CLONING         """)
-    print("""\033[97;1m[\033[92;1m2\033[97;1m] \033[0;93mCONTACT WITH ADMIN""")
-    print(f"""\033[97;1m[\033[92;1m3\033[97;1m] \033[92;1mCHECK OK IDz   """)
+    print(f"""\033[97;1m[\033[92;1m1\033[97;1m] \033[0;96mFILE CLONING FREEFIRE""")
+    print(f"""\033[97;1m[\033[92;1m2\033[97;1m] \033[0;94mPublik ids Crack""")
+    print("""\033[97;1m[\033[92;1m3\033[97;1m] \033[0;93mCONTACT WITH ADMIN""")
+    print(f"""\033[97;1m[\033[92;1m4\033[97;1m] \033[92;1mCHECK OK IDz   """)
     print("""\033[97;1m[\033[92;1m0\033[97;1m] \033[0;91mEXIT""")
     print('\033[0;97m=================')
     KRISH = input('\x1b[1;92m[+] CHOOSE: ')
@@ -352,7 +353,7 @@ def menu():
     elif KRISH in ['1']:
         crack_file()
     elif KRISH in ['2','02']:
-        os.system('xdg-open https://wa.me/+8801608843956')
+        os.system('xdg-open https://wa.me/+9779769854260')
         os.system("python nono.py")
     elif KRISH in ['3','03']:
         result()
@@ -590,7 +591,7 @@ def setting():
     print('\033[0;91m==================')
     print('\033[0;91m==================')
     print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCLONING SPEED SUPER FAST\033[1;37m]")
-    print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCLONING SPEED SLOW FREEI\033[1;37m]")
+    print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCLONING SPEED  ALSO SLOW \033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
     #os.system("xdg-open https://www.facebook.com/profile.php?id=100095295200874")
@@ -623,44 +624,50 @@ def passwrd():
                 if len(frs)<3:
                     pass
                 else:
-                    pwv.append(frs+'12')
-                    pwv.append(frs+'123')
-                    pwv.append(frs+'1234')
+                    pwv.append(tamang'12345')
+                    pwv.append(firs+'las+')
+                    pwv.append(firs+' las+')
+                    pwv.append(firs+'123')
+                    pwv.append(Firs+'123')
+                    pwv.append(first'1234')
+                    pwv.append(FRS+'1234')
                     pwv.append(frs+'12345')
-                    pwv.append(frs+'123456')
-                    pwv.append(nmf)
-                    pwv.append('57273200')
-                    pwv.append(frs+'@123')
-                    pwv.append(frs+'@')
-                    pwv.append(frs+'@@')
-                    pwv.append(frs+'@@@')
-                    pwv.append(frs+'@@@@')
-                    pwv.append(frs+'@#')
-                    pwv.append(frs+'1122')
-                    pwv.append(frs+'11')
-                    pwv.append(frs+'111')
-                    pwv.append(frs+'13')
+                    pwv.append(firs+'123456')
+                    pwv.append(Firs+'@123')
+                    pwv.append(firs+'@123')
+                    pwv.append(firs+'@12')
+                    pwv.append(firs+'321')
+                    pwv.append(firs+'@1234')
+                    pwv.append(firs+'@12345')
+                    pwv.append(firs+'111')
+                    pwv.append(ifrs+'@123456')
+                    pwv.append(firs+'las+')
+                    pwv.append(FIRS+'123')
+                    pwv.append(las+'123')
             else:
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                    pwv.append(frs+'12')
-                    pwv.append(frs+'123')
-                    pwv.append(frs+'1234')
+                    pwv.append(tamang'12345')
+                    pwv.append(firs+'las+')
+                    pwv.append(firs+' las+')
+                    pwv.append(firs+'123')
+                    pwv.append(Firs+'123')
+                    pwv.append(first'1234')
+                    pwv.append(FRS+'1234')
                     pwv.append(frs+'12345')
-                    pwv.append(frs+'123456')
-                    pwv.append(nmf)
-                    pwv.append('57273200')
-                    pwv.append(frs+'@123')
-                    pwv.append(frs+'@')
-                    pwv.append(frs+'@@')
-                    pwv.append(frs+'@@@')
-                    pwv.append(frs+'@@@@')
-                    pwv.append(frs+'@#')
-                    pwv.append(frs+'1122')
-                    pwv.append(frs+'11')
-                    pwv.append(frs+'111')
-                    pwv.append(frs+'13')
+                    pwv.append(firs+'123456')
+                    pwv.append(Firs+'@123')
+                    pwv.append(firs+'@123')
+                    pwv.append(firs+'@12')
+                    pwv.append(firs+'321')
+                    pwv.append(firs+'@1234')
+                    pwv.append(firs+'@12345')
+                    pwv.append(firs+'111')
+                    pwv.append(ifrs+'@123456')
+                    pwv.append(firs+'las+')
+                    pwv.append(FIRS+'123')
+                    pwv.append(las+'123')
             if 'ya' in pwpluss:
                 for xpwd in pwnya:
                     pwv.append(xpwd)
